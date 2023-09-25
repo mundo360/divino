@@ -1,0 +1,108 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3487B5D0_2307_F7E2_41B6_EFB6949AC35B.source = https://divinorog.com.br/site/
+LinkBehaviour_3C556AD3_2309_5DE6_416F_489603C53E6C.source = https://divinorog.com.br/site/
+LinkBehaviour_F93A0BD8_C934_1366_41C4_1EC49DEDC944.source = https://wa.me/556133817131
+LinkBehaviour_FB46B509_C934_34E7_41E2_CE389409F0DD.source = https://wa.me/556133817131
+WebFrame_A521021F_8D8C_37E4_41D3_AAB5C1FB642F.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.277146719812!2d-47.97650488921112!3d-15.84202448474162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2e26fb04b865%3A0xb387fb9f79adfead!2sPar%C3%B3quia%20Divino%20Esp%C3%ADrito%20Santo%20(Rogacionista)%20-%20Guar%C3%A1%20II!5e0!3m2!1spt-BR!2sbr!4v1695651996950!5m2!1spt-BR!2sbr
+WebFrame_A56BEC6D_8D84_2C24_41E1_9F7905E877DD.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.277146719812!2d-47.97650488921112!3d-15.84202448474162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2e26fb04b865%3A0xb387fb9f79adfead!2sPar%C3%B3quia%20Divino%20Esp%C3%ADrito%20Santo%20(Rogacionista)%20-%20Guar%C3%A1%20II!5e0!3m2!1spt-BR!2sbr!4v1695651996950!5m2!1spt-BR!2sbr
+LinkBehaviour_A62EDBFF_8D8C_3424_41E1_026CE3235B71.source = https://www.instagram.com/divinorog/
+LinkBehaviour_F9361A70_C934_3D26_41DB_38432649D048.source = https://www.instagram.com/divinorog/
+LinkBehaviour_3CC386D2_230A_D5E6_41BF_ED1598C12D8E.source = https://www.youtube.com/@PDESRogacionista
+LinkBehaviour_3AB66457_2306_B4EE_4167_C37646B2E732.source = https://www.youtube.com/@PDESRogacionista
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F4CD0965_C93C_1F2E_41E8_1A3A54354F60.text = Instruções
+
+## Media
+
+### Audio
+audiores_8A14BF3E_CAED_F31D_41E5_F5F096326666.mp3Url = media/audio_890061FD_CAEC_2F1F_41D9_87080E6EC91F_pt.mp3
+audiores_D003BEAB_C6DC_19FA_41DC_5FC0EFE13C0A.mp3Url = media/audio_D3C27F5A_C6F4_175B_41E2_0003B13090E9_pt.mp3
+
+### Image
+imlevel_F4C5AEC0_C92C_1566_41E1_B449E37F2790.url = media/panorama_D2D0345D_C6EC_295E_41E4_19C79BC6DFA3_HS_tgzq670t_pt.png
+
+### Title
+panorama_D319E9EC_C6EC_3B7F_41C8_5F2FE5A37B63.label = abertura portao-edit
+panorama_D2D3C56C_C6EC_6B7F_41BD_8A2D9B8FA122.label = altar-edit
+panorama_D2D021C1_C6EC_6BA6_41BC_44A0062227DA.label = antes altar-edit
+panorama_D2D08E84_C6EC_19AE_41E3_19A84EC8497A.label = capela interna-edit
+panorama_D2D07A2A_C6EC_38FB_41DF_3E3F83461876.label = chegada na capela melhor-edit
+panorama_D2D0F6DE_C6EC_295B_41E3_36E030C79546.label = corredor direta central-edit
+panorama_D2D0232B_C6EC_E8F9_41E5_79E24756B67A.label = corredor esquerda central-edit
+panorama_D2D01F3F_C6EC_F8D8_41C2_550BF6AE6160.label = escada-edit
+panorama_D2D0EBA6_C6EC_1FEB_41DD_FD09F603DE22.label = esquina para porta lateral-edit
+panorama_D2D02826_C6EC_38EA_41E6_02CA639A4176.label = estacionamento-edit
+panorama_D2D0345D_C6EC_295E_41E4_19C79BC6DFA3.label = frente ao portao-edit
+panorama_D2D070B1_C6EC_69E9_41E2_DA881BA1014C.label = lateral altar direita melhor-edit2
+panorama_D2D06C5A_C6EC_795B_41C9_9B0D85512B72.label = porta central meio porta-edit
+panorama_D2D06844_C6EC_18AF_41D1_8AFE130D857A.label = porta central passo 1-edit
+panorama_D2D07435_C6EC_28E9_41D1_646BEF948328.label = porta central passo 2-edit
+panorama_D2D34145_C6EC_28AE_41E5_F97097879646.label = porta direita melhor-edit
+panorama_D2D0B028_C6EF_E8E6_41E0_25E2BF681DAD.label = porta esquerda-edit
+panorama_D2D01E8C_C6EC_19BF_41C5_E37C27DA372E.label = portal central passo 3-edit
+panorama_D2D03B13_C6EC_38A9_41D2_98B4009D3541.label = portal central passo 4-edit
+panorama_D2D02750_C6EC_28A7_419B_AB68468D56DA.label = saida lateral esquerda-edit
+panorama_D2D0034C_C6EC_68BF_41D3_CE6A94027AC9.label = superior banda-edit
+panorama_D2D05ED2_C6EC_79AA_41E8_38D2DB58575C.label = superior chegada melhor-edit
+panorama_D2D02BA4_C6EC_1FEE_41AB_1F1C3A185D35.label = superrior central melhor-edit
+
+## Skin
+
+### Image
+Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_mobile_pt.jpg
+Image_833AAAAC_8D84_3424_41D7_8C869346423B.url = skin/Image_833AAAAC_8D84_3424_41D7_8C869346423B_pt.jpg
+Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28.url = skin/Image_A7C5514E_8D8C_1464_41D6_CD417EC87F28_pt.jpg
+Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6.url = skin/Image_AA974A98_8DBB_F4EC_41E0_7211BF414FB6_pt.png
+Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307.url = skin/Image_AA977A98_8DBB_F4EC_41DD_F46FEB3F2307_pt.png
+Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F.url = skin/Image_AAAB3DF5_8DBC_2C24_41CC_C85C4FD7E29F_pt.png
+Image_D2F2BD13_C6FC_F8A9_41E2_B7B78CD38638.url = skin/Image_D2F2BD13_C6FC_F8A9_41E2_B7B78CD38638_pt.png
+Image_D2F2FD13_C6FC_F8A9_41D5_7519A5FA438E.url = skin/Image_D2F2FD13_C6FC_F8A9_41D5_7519A5FA438E_pt.png
+Image_D5544340_C6FC_28A7_41DF_654146679043.url = skin/Image_D5544340_C6FC_28A7_41DF_654146679043_pt.png
+Image_E33E9067_C97C_ED2B_41E0_3ED1271ACF58.url = skin/Image_E33E9067_C97C_ED2B_41E0_3ED1271ACF58_pt.png
+Image_F81683F8_C95C_3326_41B0_F56BA72E4913.url = skin/Image_F81683F8_C95C_3326_41B0_F56BA72E4913_pt.png
+Image_FC0C7C9C_C974_751D_41DC_C2EAD012DC5F.url = skin/Image_FC0C7C9C_C974_751D_41DC_C2EAD012DC5F_pt.png
+Image_FD5E300D_C96C_2CFF_41D1_DC0156CC14B3.url = skin/Image_FD5E300D_C96C_2CFF_41D1_DC0156CC14B3_pt.png
+Image_FF1A3476_C954_152D_41E2_D747D05553C2.url = skin/Image_FF1A3476_C954_152D_41E2_D747D05553C2_pt.png
+
+### Label
+Label_C9FFB8E2_C6DC_196B_41DD_BE5957C7C574.text = Paróquia Divino Espírito Santo
+Label_32A66686_230B_F46E_41B9_DD22E13A98AC.text = Tour Virtual 360º - Paróquia Divino Espírito Santo
+
+### Multiline Text
+HTMLText_A7D67C21_8D84_73DC_41D1_3290C30E7794.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.341534008683071vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.34vh;font-family:'Bebas Neue Bold';">Lista de fotos :</SPAN></SPAN></DIV></div>
+HTMLText_A56BCC6D_8D84_2C24_4192_FC0733679C5F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização Paróquia</B></SPAN></SPAN></DIV></div>
+HTMLText_A786D5FA_8D84_1C2D_41BB_D62C4820A56C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.34vh;font-family:'Oswald';"><B>LISTA DE FOTOS</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286_mobile.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DCA975_8D7C_1427_41D7_6674C73E7286.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0.toolTip = Localização
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762_mobile.toolTip = PANORAMA LIST
+IconButton_81DAE978_8D7C_142D_41B8_C62E14904762.toolTip = PANORAMA LIST
+IconButton_8159B125_8E48_B6FF_41D4_3163758A3953.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95.toolTip = PHOTO ALBUM
+IconButton_FADBCB55_C934_136E_41E3_3F6880A3B07C.toolTip = PHOTO ALBUM
+IconButton_81DAF978_8D7C_142D_41CC_7C7BF6831491_mobile.toolTip = PHOTO ALBUM
+IconButton_813E1831_8E48_D6D7_41AF_D9ACADA68C5E_mobile.toolTip = PHOTO ALBUM
+IconButton_9E778C68_8D84_EC2C_41DC_B8A90C02CF95_mobile.toolTip = PHOTO ALBUM
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179.toolTip = SHOW FLOORPLANS
+IconButton_F9373A6E_C934_3D3A_41BB_55790D295DE5_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DA9978_8D7C_142D_41BE_372F4085D7DD_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAA979_8D7C_142F_41BD_1D49E3D0C179_mobile.toolTip = SHOW FLOORPLANS
+IconButton_81DAB979_8D7C_142F_41C6_49F15FE15FF0_mobile.toolTip = SHOW FLOORPLANS
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual Divino espirito santo
